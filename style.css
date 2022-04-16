@@ -1,0 +1,21 @@
+
+fieldset {
+  background-color: #eeeeee;
+  width:fit-content;
+  padding-right: 2cm;
+  
+}
+
+legend {
+  background-color: gray;
+  color: white;
+  padding: 10px ;
+  display: block;
+
+
+  
+}
+
+input {
+  margin: 5px;
+}
